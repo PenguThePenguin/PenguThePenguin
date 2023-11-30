@@ -2,20 +2,8 @@
 
 </br>
 
-- 🔭 I’m currently working on [@BeastMCNetwork](https://github.com/BeastMC-Network) and [@SquidLand](https://github.com/squidland)
 - 🌱 I’m currently learning [HTML](https://html.com/).  
-- 📫 How to reach me: [@Pengu_Penguin](https://twitter.com/Pengu_Penguin_) or Pengu#3689.  
 - ⚡ Fun fact: Penguins cant fly!
-
-</br>
-
-## CONTACT
-
-</br>
-
-<img align="left" alt="PenguThePenguin" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/> Pengu#3689
-
-</br><img align="left" alt="PenguThePenguin" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> Pengu_Penguin_
 
 </br>
 
